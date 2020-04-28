@@ -1,0 +1,21 @@
+#foodList {
+    display: flex;
+}
+
+.row {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+h1 {
+    margin: 1em;
+}
+
+h5 {
+    margin: 1em;
+}
+
+h6 {
+    margin: 1em;
+}
